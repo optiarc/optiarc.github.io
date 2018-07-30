@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://optiarc.com/categories/</loc>
+    <loc>https://optiarc.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://optiarc.com/</loc>
+    <loc>https://optiarc.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://optiarc.com/tags/</loc>
+    <loc>https://optiarc.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
