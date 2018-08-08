@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://optiarc.github.io/posts/creative/</loc>
+    <lastmod>2018-08-07T11:31:17-10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://optiarc.github.io/posts/gearup/</loc>
+    <lastmod>2018-08-07T11:19:28-10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://optiarc.github.io/about/</loc>
+    <lastmod>2018-07-30T20:48:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://optiarc.github.io/uwiot/</loc>
+    <lastmod>2018-07-30T20:48:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://optiarc.github.io/posts/pegasus/</loc>
+    <lastmod>2018-07-30T14:53:24-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://optiarc.github.io/contact/</loc>
   </url>
   
@@ -13,6 +38,13 @@
   
   <url>
     <loc>https://optiarc.github.io/</loc>
+    <lastmod>2018-08-07T11:31:17-10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://optiarc.github.io/posts/</loc>
+    <lastmod>2018-08-07T11:31:17-10:00</lastmod>
     <priority>0</priority>
   </url>
   
